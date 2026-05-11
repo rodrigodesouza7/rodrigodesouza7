@@ -78,9 +78,9 @@ Projeto de modelagem dimensional utilizando PostgreSQL e SQL analítico aplicado
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=C9D1D9&icon_color=00E5FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=C9D1D9&icon_color=00E5FF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=C9D1D9"/>
 
 </div>
 
@@ -90,7 +90,7 @@ Projeto de modelagem dimensional utilizando PostgreSQL e SQL analítico aplicado
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigodesouza7&bg_color=0d1117&color=00BFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigodesouza7&theme=github-dark&hide_border=true&bg_color=0D1117&color=00BFFF&line=00E5FF&point=FFFFFF&area=true&area_color=08131D"/>
 
 </div>
 
