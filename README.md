@@ -12,7 +12,7 @@ Construindo pipelines analíticos, arquiteturas de dados e sistemas inteligentes
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodesouzasilva)
 [![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigodesouza7)
-![Location](https://img.shields.io/badge/SÃO_PAULO-BRASIL-00BFFF?style=for-the-badge)
+![Location](https://img.shields.io/badge/SÃO_BERNARDO_DO_CAMPO_•_SÃO_PAULO_•_BRASIL-00BFFF?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
