@@ -74,14 +74,13 @@ Projeto de modelagem dimensional utilizando PostgreSQL e SQL analítico aplicado
 🔗 https://github.com/rodrigodesouza7/ecommerce-olist-analytics
 
 ---
-
 # Estatísticas GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=C9D1D9&icon_color=00E5FF"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=C9D1D9"/>
 
 </div>
 
@@ -91,7 +90,7 @@ Projeto de modelagem dimensional utilizando PostgreSQL e SQL analítico aplicado
 
 <div align="center">
 
-[![Rodrigo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigodesouza7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00BFFF&point=FFFFFF&area=true&area_color=0A192F)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigodesouza7&bg_color=0d1117&color=00BFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
