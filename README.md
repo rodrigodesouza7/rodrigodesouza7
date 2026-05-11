@@ -149,8 +149,7 @@ para visualização interativa e insights históricos.
 
 - 🎓 **Pós-Graduação**: Data Science, Machine Learning & AI
 - 🎓 **Graduação**: Sistemas de Informação
-- 📚 **Cursos**: Python | ML Engineering | Data Analysis | Data Engineering | Software Architecture | BI | Big Data | DevOps | AWS | Azure | IT Management
-
+- 📚 **Cursos**: Python | ML Engineering | Data Engineering | 
 ---
 
 ## 📫 Como Me Encontrar
