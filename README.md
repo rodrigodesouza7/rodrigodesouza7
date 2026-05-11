@@ -78,27 +78,43 @@ Projeto de modelagem dimensional utilizando PostgreSQL e SQL analítico aplicado
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rodrigodesouza7&color=00BFFF&style=for-the-badge&label=VISUALIZAÇÕES"/>
+![Profile Views](https://komarev.com/ghpvc/?username=rodrigodesouza7&color=00BFFF&style=for-the-badge&label=VISUALIZAÇÕES)
 
 <br><br>
 
-<a href="https://github.com/rodrigodesouza7">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Total_Repos-9-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Total_Stars-8-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Contributions-163-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Current_Streak-2_dias-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Longest_Streak-3_dias-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Member_Since-Mar_2022-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
-<a href="https://github.com/rodrigodesouza7">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9"/>
-</a>
+### 💻 Linguagens Principais
 
-<a href="https://github.com/rodrigodesouza7">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=rodrigodesouza7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=c9d1d9&sideLabels=00BFFF"/>
-</a>
-
-<br><br>
-
-**📈 Resumo:** 163 contribuições | 9 repositórios | 8 stars | Membro desde Mar 2022
+<img src="https://img.shields.io/badge/Python-65%25-00BFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SQL-20%25-00BFFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Jupyter-10%25-00BFFF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Other-5%25-00BFFF?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
 
 </div>
 ---
