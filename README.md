@@ -50,16 +50,16 @@ me.say_hi()
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigodesouza7&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouza7&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
 
 </div>
 
@@ -68,8 +68,8 @@ me.say_hi()
 ## 🚀 Projetos em Destaque
 
 ### 📈 [financial-behavior-analytics](https://github.com/rodrigodesouza7/financial-behavior-analytics)
-Pipeline analítico financeiro com PostgreSQL, dbt e Streamlit para análise de comportamento,
-segmentação RFM, churn e métricas de negócio aplicando arquitetura multicamadas e analytics engineering.
+Pipeline analítico financeiro com PostgreSQL, dbt e Streamlit para análise de comportamento, segmentação RFM, churn e métricas de negócio aplicando arquitetura multicamadas e analytics engineering.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
@@ -78,16 +78,16 @@ segmentação RFM, churn e métricas de negócio aplicando arquitetura multicama
 ---
 
 ### 🛒 [ecommerce-olist-analytics](https://github.com/rodrigodesouza7/ecommerce-olist-analytics)
-Modelagem dimensional Star Schema em PostgreSQL com dataset real de e-commerce brasileiro (Olist),
-aplicando SQL avançado, integridade referencial e queries analíticas para insights de negócio.
+Modelagem dimensional Star Schema em PostgreSQL com dataset real de e-commerce brasileiro (Olist), aplicando SQL avançado, integridade referencial e queries analíticas para insights de negócio.
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
 ### 🌤️ [weather-system](https://github.com/rodrigodesouza7/weather-system)
-Sistema de clima em tempo real com FastAPI e Streamlit, integrado à OpenWeather API
-para consulta e visualização de dados meteorológicos.
+Sistema de clima em tempo real com FastAPI e Streamlit, integrado à OpenWeather API para consulta e visualização de dados meteorológicos.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -95,8 +95,8 @@ para consulta e visualização de dados meteorológicos.
 ---
 
 ### 📋 [ibge-names-analytics](https://github.com/rodrigodesouza7/ibge-names-analytics)
-Aplicação web para análise de nomes no Brasil com dados do IBGE, usando Streamlit e Pandas
-para visualização interativa e insights históricos.
+Aplicação web para análise de nomes no Brasil com dados do IBGE, usando Streamlit e Pandas para visualização interativa e insights históricos.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -139,7 +139,7 @@ para visualização interativa e insights históricos.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigodesouza7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigodesouza7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&area_color=1F6FEB)
 
 </div>
 
@@ -149,7 +149,8 @@ para visualização interativa e insights históricos.
 
 - 🎓 **Pós-Graduação**: Data Science, Machine Learning & AI
 - 🎓 **Graduação**: Sistemas de Informação
-- 📚 **Cursos**: Python | ML Engineering | Data Engineering | 
+- 📚 **Cursos**: Python | ML Engineering | Data Analysis | Data Engineering | Software Architecture | BI | Big Data | DevOps | AWS | Azure | IT Management
+
 ---
 
 ## 📫 Como Me Encontrar
