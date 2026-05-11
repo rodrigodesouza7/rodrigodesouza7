@@ -74,21 +74,23 @@ Projeto de modelagem dimensional utilizando PostgreSQL e SQL analítico aplicado
 🔗 https://github.com/rodrigodesouza7/ecommerce-olist-analytics
 
 ---
-# Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouza7&theme=github-dark-blue&hide_border=true" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouza7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" height="180em" alt="GitHub Streak"/>
+
+<br><br>
+
+**📈 Resumo:** 163 contribuições | 9 repositórios | 8 stars | Membro desde Mar 2022
 
 </div>
-
-
 ---
 
 # Atividade
