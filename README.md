@@ -46,20 +46,19 @@ me.say_hi()
 ```
 
 ---
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&cache_seconds=1800"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 <div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=rodrigodesouza7&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rodrigodesouza7&theme=dark&hide_border=true)
 
 </div>
 
