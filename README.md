@@ -50,17 +50,39 @@ me.say_hi()
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&theme=dark&hide_border=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Repos-9-blue?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Stars-8-yellow?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Contributions-163-green?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQL-Advanced-CC2927?style=for-the-badge&logo=postgresql"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cloud-AWS/Azure-FF9900?style=for-the-badge&logo=amazon-aws"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<div align="center">
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rodrigodesouza7&theme=dark&hide_border=true)
-
-</div>
+**📈 Atividade Recente:**
+- 🔥 Current Streak: 2 dias
+- 📊 Maior Streak: 3 dias (Mai 2025)
+- ✅ Total de Contribuições em 2026: 163
 
 ---
 
