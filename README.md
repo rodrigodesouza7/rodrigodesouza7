@@ -78,13 +78,23 @@ Projeto de modelagem dimensional utilizando PostgreSQL e SQL analítico aplicado
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+<img src="https://komarev.com/ghpvc/?username=rodrigodesouza7&color=00BFFF&style=for-the-badge&label=VISUALIZAÇÕES"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em" alt="Top Languages"/>
+<a href="https://github.com/rodrigodesouza7">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouza7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" height="180em" alt="GitHub Streak"/>
+<br><br>
+
+<a href="https://github.com/rodrigodesouza7">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9"/>
+</a>
+
+<a href="https://github.com/rodrigodesouza7">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=rodrigodesouza7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=c9d1d9&sideLabels=00BFFF"/>
+</a>
 
 <br><br>
 
