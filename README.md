@@ -78,13 +78,13 @@ Projeto de modelagem dimensional utilizando PostgreSQL e SQL analítico aplicado
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=rodrigodesouza7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodesouza7&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="180em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouza7&theme=github-dark-blue&hide_border=true" height="180em"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouza7&theme=github-dark-blue&hide_border=true" />
 
 </div>
 ---
