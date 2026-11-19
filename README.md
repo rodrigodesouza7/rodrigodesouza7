@@ -1,39 +1,30 @@
+
 <div align="center">
 
-![Banner](github-banner-rodrigo-data-science.png)
+![Banner do perfil](github-banner-rodrigo-data-science.png)
 
 # Rodrigo de Souza
 
-### Engenharia de Dados • IA  • Analytics Engineering
+### Engenharia de Dados · Data Science · Analytics Engineering
 
-Construindo pipelines analíticos, arquiteturas de dados e sistemas inteligentes orientados a métricas.
+Projetos de engenharia e análise de dados, da ingestão e modelagem à automação, validação e visualização.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodesouzasilva)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigodesouza7)
-
-<br>
-
-![City](https://img.shields.io/badge/São_Bernardo_do_Campo-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00BFFF)
-![State](https://img.shields.io/badge/São_Paulo-0D1117?style=for-the-badge&logo=map&logoColor=00BFFF)
-![Country](https://img.shields.io/badge/Brasil-00BFFF?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodesouzasilva)
+[![Localização](https://img.shields.io/badge/São_Bernardo_do_Campo,_SP-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00BFFF)](https://www.google.com/maps/search/?api=1&query=S%C3%A3o+Bernardo+do+Campo%2C+SP)
 
 </div>
 
 ---
 
-# Sobre
+## Sobre
 
-Profissional com formação em Sistemas de Informação e especialização em Data Science, Machine Learning & IA.
+Sou formado em **Sistemas de Informação**, com pós-graduação em **Data Science, Machine Learning & IA**. Desenvolvo projetos de portfólio voltados à **Engenharia de Dados**, **Analytics Engineering** e **análise de dados**, com foco em soluções reproduzíveis e documentação técnica.
 
-Atuando na construção de pipelines analíticos, modelagem de dados, observabilidade e aplicações orientadas a dados utilizando Python, SQL, PostgreSQL, dbt e Docker.
-
-Foco em soluções modernas de engenharia de dados com abordagem analítica, escalável e orientada à tomada de decisão.
+Meus projetos exploram ingestão por APIs, modelagem relacional e dimensional, pipelines **ETL/ELT**, arquitetura em camadas, qualidade de dados, orquestração, testes automatizados e dashboards analíticos.
 
 ---
 
-# Stack Principal
+## Tecnologias utilizadas nos projetos
 
 <div align="center">
 
@@ -41,127 +32,84 @@ Foco em soluções modernas de engenharia de dados com abordagem analítica, esc
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00BFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00BFFF)
 ![dbt](https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=00BFFF)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=00BFFF)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00BFFF)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00BFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00BFFF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00BFFF)
 
 </div>
 
 ---
 
-# Projetos em Destaque
+## Projetos em destaque
 
-## financial-behavior-analytics
+### [Aviation Data Intelligence](https://github.com/rodrigodesouza7/aviation-data-intelligence)
 
-Pipeline analítico multicamadas com PostgreSQL, dbt e Streamlit para análise de comportamento financeiro, churn, métricas de negócio e segmentação RFM.
+Plataforma demonstrativa para análise de **snapshots históricos do tráfego aéreo**, com ingestão de dados da OpenSky Network, arquitetura **Bronze → Silver → Gold**, reconciliação, reprocessamento, orquestração e dashboard de indicadores operacionais e qualidade dos dados.
 
-**Stack:** PostgreSQL • dbt • Python • Streamlit
-
-🔗 https://github.com/rodrigodesouza7/financial-behavior-analytics
+**Tecnologias:** Python · PostgreSQL · Apache Airflow · Streamlit · GitHub Actions · Pytest
 
 ---
 
-## data-observability-platform
+### [DeliveryOps Intelligence](https://github.com/rodrigodesouza7/deliveryops-intelligence)
 
-Pipeline modular para monitoramento de qualidade, latência e anomalias em dados empresariais com foco em observabilidade analítica.
+Pipeline analítico de logística para acompanhamento de entregas, SLA e indicadores operacionais, integrando modelagem, transformações, orquestração e visualização de dados.
 
-**Stack:** Python • Pandera • Streamlit • Scikit-Learn
-
-🔗 https://github.com/rodrigodesouza7/data-observability-platform
+**Tecnologias:** PostgreSQL · dbt · Apache Airflow · Streamlit
 
 ---
 
-## ecommerce-olist-analytics
+### [SaaS Subscription Analytics Platform](https://github.com/rodrigodesouza7/SaaS-Subscription-Analytics-Platform)
 
-Projeto de modelagem dimensional utilizando PostgreSQL e SQL analítico aplicado a dataset real de e-commerce brasileiro.
+Projeto analítico voltado a assinaturas SaaS, com exploração de indicadores de receita recorrente, **MRR, ARR e churn**, combinando persistência de dados e consultas analíticas.
 
-**Stack:** PostgreSQL • SQL • Data Modeling
-
-🔗 https://github.com/rodrigodesouza7/ecommerce-olist-analytics
+**Tecnologias:** PostgreSQL · MongoDB · SQL · Python
 
 ---
-## 📊 Estatísticas GitHub
+
+### [Customer Revenue Recovery Platform](https://github.com/rodrigodesouza7/customer-revenue-recovery-platform)
+
+Plataforma analítica demonstrativa para acompanhamento de receita em risco, pagamentos, saúde da base de clientes e recuperação de receita em cenário **SaaS B2B**, com dados sintéticos e testes automatizados.
+
+**Tecnologias:** PostgreSQL · Python · SQL · Pytest · Docker Compose
+
+---
+
+### [Financial Behavior Analytics](https://github.com/rodrigodesouza7/financial-behavior-analytics)
+
+Pipeline financeiro multicamadas para análise de comportamento de clientes, segmentação **RFM**, churn e métricas de negócio.
+
+**Tecnologias:** PostgreSQL · dbt · Python · Streamlit
+
+---
+
+> Outros projetos e experimentos estão disponíveis na [lista completa de repositórios](https://github.com/rodrigodesouza7?tab=repositories).
+
+---
+
+## Atividade no GitHub
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rodrigodesouza7&color=00BFFF&style=for-the-badge&label=VISUALIZAÇÕES)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=rodrigodesouza7&color=00BFFF&style=for-the-badge&label=VISUALIZAÇÕES)
 
-<br><br>
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Total_Repos-9-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Total_Stars-8-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Contributions-163-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Current_Streak-2_dias-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Longest_Streak-3_dias-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Member_Since-Mar_2022-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 💻 Linguagens Principais
-
-<img src="https://img.shields.io/badge/Python-65%25-00BFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SQL-20%25-00BFFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Jupyter-10%25-00BFFF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Other-5%25-00BFFF?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
-
-</div>
----
-
-# Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigodesouza7&theme=github-dark&hide_border=true&bg_color=0D1117&color=00BFFF&line=00E5FF&point=FFFFFF&area=true&area_color=08131D"/>
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=rodrigodesouza7&theme=github-dark&hide_border=true&bg_color=0D1117&color=00BFFF&line=00E5FF&point=FFFFFF&area=true&area_color=08131D)
 
 </div>
 
 ---
 
-# Formação
+## Formação acadêmica
 
-- Pós-Graduação — Data Science, Machine Learning & IA
-- Bacharelado — Sistemas de Informação
-
----
-
-# Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodesouzasilva)
-
-</div>
+- **Pós-graduação:** Data Science, Machine Learning & IA — XP Educação (2025)
+- **Bacharelado:** Sistemas de Informação — Estácio (2023)
 
 ---
 
 <div align="center">
 
-### Transformando dados em arquitetura, inteligência e decisão.
+**Engenharia de Dados · Modelagem · Automação · Qualidade · Analytics**
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:00BFFF&height=120&section=footer"/>
-
-</div>
-```
